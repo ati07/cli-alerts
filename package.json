@@ -23,7 +23,10 @@
         "npm atiur"
     ],
     "license": "0BSD",
-    "repository": "ati07/cli-alerts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ati07/cli-alerts.git"
+    },
     "author": {
         "name": "Atiur"
     }
