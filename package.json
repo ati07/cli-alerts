@@ -1,5 +1,5 @@
 {
-    "name": "cli-alerts",
+    "name": "atiur-cli-alerts",
     "version": "3.0.0",
     "description": "This module is build for CLI Alerts",
     "main": "index.js",
@@ -20,7 +20,7 @@
     },
     "keywords": [
         "cli-alerts",
-        "npm atiur"
+        "atiur-cli-alerts"
     ],
     "license": "0BSD",
     "repository": {
