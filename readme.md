@@ -1,6 +1,6 @@
 <h4 align="center">
     <a href="https://github.com/ati/cli-alerts">
-        <img src="https://raw.githubusercontent.com/ati/cli-alerts/HEAD/.github/cli-alerts.png" alt="cli-alerts screenshot" />
+        <img src="https://raw.githubusercontent.com/ati07/cli-alerts/refs/heads/main/.github/cli-alerts.png" alt="cli-alerts screenshot" />
     </a>
     <br>
     <br>
