@@ -4,9 +4,6 @@
     "description": "This module is build for CLI Alerts",
     "main": "index.js",
     "type": "commonjs",
-    "bin": {
-        "atiur": "index.js"
-    },
     "scripts": {
         "test": "node test.js",
         "format": "prettier --write \"./**/*.{js,json}\""
