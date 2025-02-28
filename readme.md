@@ -19,13 +19,13 @@ Work on macOS, Linux, and Windows.
 ## Install
 
 ```sh
-npm install cli-alerts
+npm install atiur-cli-alerts
 ```
 
 ## Usage
 
 ```js
-const alert = require('cli-alerts');
+const alert = require('atiur-cli-alerts');
 
 // Provide the type, msg, and name options.
 alert({type: `success`, msg: `Everything finished!`});
