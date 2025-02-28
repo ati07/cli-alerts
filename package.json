@@ -1,0 +1,33 @@
+{
+    "name": "cli-alerts",
+    "version": "0.0.1",
+    "description": "This module is build for CLI Alerts",
+    "main": "index.js",
+    "type": "commonjs",
+    "bin": {
+        "atiur": "index.js"
+    },
+    "scripts": {
+        "test": "node test.js",
+        "format": "prettier --write \"./**/*.{js,json}\""
+    },
+    "files": [
+        "index.js"
+    ],
+    "dependencies": {
+        "chalk": "^2.2.2",
+        "cli-welcome": "^2.2.0",
+        "conduct": "^4.0.0",
+        "log-symbols": "^2.2.0",
+        "prettier": "^3.5.2"
+    },
+    "keywords": [
+        "cli-alerts",
+        "npm atiur"
+    ],
+    "license": "0BSD",
+    "repository": "ati07/cli-alerts",
+    "author": {
+        "name": "Atiur"
+    }
+}
