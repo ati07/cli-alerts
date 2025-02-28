@@ -37,8 +37,8 @@ alert({type: `success`, msg: `Everything finished!`, name: `DONE`});
 alert({type: `warning`, msg: `You didn't add something!`});
 // Prints: ⚠ WARNING You didn't add something!
 
-alert({type: `info`, msg: `Awais is awesome!`});
-// Prints: ℹ INFO Awais is awesome!
+alert({type: `info`, msg: `Atiur is a good developer!`});
+// Prints: ℹ INFO Atiur is a good developer!
 
 alert({type: `error`, msg: `Something went wrong!`});
 // Prints: ✖ ERROR Something went wrong!
